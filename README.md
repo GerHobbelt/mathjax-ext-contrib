@@ -1,3 +1,7 @@
+
+**Note** This old repository was retired alongside the MathJax CDN; see [#39](https://github.com/mathjax/MathJax-third-party-extensions/issues/39). The new repo is located at https://github.com/mathjax/MathJax-third-party-extensions.
+
+
 # MathJax Contributed Extensions
 
 Each directory listed contains a [MathJax](http://www.mathjax.org) extension which can be used in a document with the MathJax CDN configuration.
